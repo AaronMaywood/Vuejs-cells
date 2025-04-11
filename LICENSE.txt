@@ -1,0 +1,13 @@
+本リポジトリは、Vue.js の公式サイト、実例集の Cells（https://ja.vuejs.org/examples/#cells）より、以下のファイルをコピーして構成しました。
+
+- src/App.vue
+- src/Cell.vue
+- src/store.js
+
+これらのファイルのクレジットを表記します。
+
+- 「`Yuxi`（`Evan`）と`Vue`ドキュメンテーション・コントリビューター」による「`cells`（https://github.com/vuejs-translations/docs-ja/tree/main/src/examples/src/cells）」は[CC BY 4.0 ライセンス（https://creativecommons.org/licenses/by/4.0/deed.ja）です。
+   - `Copyright (c) 2019-present, Yuxi (Evan) You and Vue documentation contributors`
+
+その他のファイルについては株式会社アジャストに帰属します。
+Copyright (c) 2025 ADjust Co.,Ltd.
